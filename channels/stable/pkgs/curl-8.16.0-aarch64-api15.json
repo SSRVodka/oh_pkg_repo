@@ -1,0 +1,14 @@
+{
+  "name": "curl",
+  "version": "8.16.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1084144,
+  "sha256": "99898fedb612cac0cdb16efa78173c43f2b380ee2829b87542f801d0e5b2036e",
+  "url": "channels/stable/pkgs/curl-8.16.0-aarch64-api15.pkg",
+  "depends": [
+    "openssl\u003e3.0",
+    "libpsl\u003e0.20"
+  ]
+}

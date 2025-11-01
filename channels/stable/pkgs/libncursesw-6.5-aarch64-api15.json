@@ -1,0 +1,10 @@
+{
+  "name": "libncursesw",
+  "version": "6.5",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 3302262,
+  "sha256": "00b8d03361d50570fd4811e01a4bf8810b2aef2303442c482463a2bc5dd2a7e7",
+  "url": "channels/stable/pkgs/libncursesw-6.5-aarch64-api15.pkg"
+}

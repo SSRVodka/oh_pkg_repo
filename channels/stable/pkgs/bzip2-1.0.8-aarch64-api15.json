@@ -1,0 +1,10 @@
+{
+  "name": "bzip2",
+  "version": "1.0.8",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 269788,
+  "sha256": "125c66fa0c68f3ef98b208b6e2498fe8b9940e870a7a16bd034b317f27c2904e",
+  "url": "channels/stable/pkgs/bzip2-1.0.8-aarch64-api15.pkg"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zstd",
+  "version": "1.5.7",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1232394,
+  "sha256": "babccccbb97b6f98a90b6d4a1f06a6b0d50fd14ee539568872932b8478c2e2c5",
+  "url": "channels/stable/pkgs/zstd-1.5.7-aarch64-api15.pkg"
+}

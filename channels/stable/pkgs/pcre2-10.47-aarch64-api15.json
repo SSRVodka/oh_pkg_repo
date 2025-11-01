@@ -1,0 +1,15 @@
+{
+  "name": "pcre2",
+  "version": "10.47",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1726267,
+  "sha256": "4e80c9f527d625ad4fb818fda0b973ded76ac5386d9f8fcea11383bba91635e0",
+  "url": "channels/stable/pkgs/pcre2-10.47-aarch64-api15.pkg",
+  "depends": [
+    "bzip2\u003e=1.0",
+    "libncursesw\u003e6.0",
+    "libreadline\u003e8.0"
+  ]
+}

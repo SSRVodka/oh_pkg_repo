@@ -1,0 +1,10 @@
+{
+  "name": "binutils",
+  "version": "2.44",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 22689825,
+  "sha256": "35a59684b5f20dacf5a2547d20df6b7804a130c812eb003589054785fb1e558d",
+  "url": "channels/stable/pkgs/binutils-2.44-aarch64-api15.pkg"
+}

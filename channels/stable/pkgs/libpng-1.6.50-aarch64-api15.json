@@ -1,0 +1,10 @@
+{
+  "name": "libpng",
+  "version": "1.6.50",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 508342,
+  "sha256": "5b4d5977521a12be62b7d1c6b39dcc28f0f3c27c3ff53d33987abd41e9fe01bb",
+  "url": "channels/stable/pkgs/libpng-1.6.50-aarch64-api15.pkg"
+}

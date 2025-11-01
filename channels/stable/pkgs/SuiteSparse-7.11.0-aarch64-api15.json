@@ -1,0 +1,15 @@
+{
+  "name": "SuiteSparse",
+  "version": "7.11.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 22887805,
+  "sha256": "9a3f4df8afbb7bcaa8649c4f1fc5bb41a9a330ff3c37ffbe2be7bd664352fe52",
+  "url": "channels/stable/pkgs/SuiteSparse-7.11.0-aarch64-api15.pkg",
+  "depends": [
+    "libgmp\u003e=6.0",
+    "libmpfr\u003e=4.0",
+    "openblas"
+  ]
+}

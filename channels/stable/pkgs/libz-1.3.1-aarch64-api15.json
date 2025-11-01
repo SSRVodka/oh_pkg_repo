@@ -1,0 +1,10 @@
+{
+  "name": "libz",
+  "version": "1.3.1",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 170008,
+  "sha256": "fbfac8767b22811762e0649915664c0bdc8c935a770c36a3f98477393e036fc0",
+  "url": "channels/stable/pkgs/libz-1.3.1-aarch64-api15.pkg"
+}

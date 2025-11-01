@@ -1,0 +1,615 @@
+{
+  "repo": "repo",
+  "channel": "stable",
+  "generated": "2025-11-01T14:37:50.814695646Z",
+  "packages": [
+    {
+      "name": "SuiteSparse",
+      "version": "7.11.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/SuiteSparse-7.11.0-aarch64-api15.pkg",
+      "sha256": "9a3f4df8afbb7bcaa8649c4f1fc5bb41a9a330ff3c37ffbe2be7bd664352fe52",
+      "size": 22887805,
+      "manifest": "channels/stable/pkgs/SuiteSparse-7.11.0-aarch64-api15.json",
+      "depends": [
+        "libgmp\u003e=6.0",
+        "libmpfr\u003e=4.0",
+        "openblas"
+      ]
+    },
+    {
+      "name": "YDLidar-SDK",
+      "version": "1.2.7",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/YDLidar-SDK-1.2.7-aarch64-api15.pkg",
+      "sha256": "188f120c09557e2f7477c034c58b44daae2a76f20241895dc0982b75d3d0c8c9",
+      "size": 7753388,
+      "manifest": "channels/stable/pkgs/YDLidar-SDK-1.2.7-aarch64-api15.json"
+    },
+    {
+      "name": "acl",
+      "version": "2.3.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/acl-2.3.1-aarch64-api15.pkg",
+      "sha256": "fcbafceec4243cf2f1f26d0f7a50cc0d9f193218f6cc3ed549d2758b1b093bf6",
+      "size": 133512,
+      "manifest": "channels/stable/pkgs/acl-2.3.1-aarch64-api15.json",
+      "depends": [
+        "attr\u003e=2.5"
+      ]
+    },
+    {
+      "name": "alsa",
+      "version": "1.2.14",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/alsa-1.2.14-aarch64-api15.pkg",
+      "sha256": "248de02320d84dd65c07f93ec1494c6ff3706c8ee316cdb3030a2735c2bd7d33",
+      "size": 673441,
+      "manifest": "channels/stable/pkgs/alsa-1.2.14-aarch64-api15.json"
+    },
+    {
+      "name": "assimp",
+      "version": "6.0.2",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/assimp-6.0.2-aarch64-api15.pkg",
+      "sha256": "ed178efa725cbed20cf364e22c63661a60b787050ac513571630728eaef0fb8c",
+      "size": 4213220,
+      "manifest": "channels/stable/pkgs/assimp-6.0.2-aarch64-api15.json"
+    },
+    {
+      "name": "attr",
+      "version": "2.5.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/attr-2.5.1-aarch64-api15.pkg",
+      "sha256": "c4c4b0fae087c444b2ff637b3e060a8762557c9202f3e8be8eb4566c202e7f55",
+      "size": 73240,
+      "manifest": "channels/stable/pkgs/attr-2.5.1-aarch64-api15.json"
+    },
+    {
+      "name": "binutils",
+      "version": "2.44",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/binutils-2.44-aarch64-api15.pkg",
+      "sha256": "35a59684b5f20dacf5a2547d20df6b7804a130c812eb003589054785fb1e558d",
+      "size": 22689825,
+      "manifest": "channels/stable/pkgs/binutils-2.44-aarch64-api15.json"
+    },
+    {
+      "name": "boost",
+      "version": "1.81.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/boost-1.81.0-aarch64-api15.pkg",
+      "sha256": "c06dcc394c8f66f622cafb8ec98df3a35ea50d2f975af674f79ece9a879f118c",
+      "size": 26124646,
+      "manifest": "channels/stable/pkgs/boost-1.81.0-aarch64-api15.json"
+    },
+    {
+      "name": "bzip2",
+      "version": "1.0.8",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/bzip2-1.0.8-aarch64-api15.pkg",
+      "sha256": "125c66fa0c68f3ef98b208b6e2498fe8b9940e870a7a16bd034b317f27c2904e",
+      "size": 269788,
+      "manifest": "channels/stable/pkgs/bzip2-1.0.8-aarch64-api15.json"
+    },
+    {
+      "name": "ceres-solver",
+      "version": "2.2.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/ceres-solver-2.2.0-aarch64-api15.pkg",
+      "sha256": "843eda16f83f43763600b4ce14dc69e63c74d0bc7f496cdab5391604092c53aa",
+      "size": 2343201,
+      "manifest": "channels/stable/pkgs/ceres-solver-2.2.0-aarch64-api15.json",
+      "depends": [
+        "gflags\u003e2.0",
+        "glog\u003e0.5",
+        "eigen3",
+        "openblas\u003e=0.3",
+        "SuiteSparse\u003e7.0"
+      ]
+    },
+    {
+      "name": "curl",
+      "version": "8.16.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/curl-8.16.0-aarch64-api15.pkg",
+      "sha256": "99898fedb612cac0cdb16efa78173c43f2b380ee2829b87542f801d0e5b2036e",
+      "size": 1084144,
+      "manifest": "channels/stable/pkgs/curl-8.16.0-aarch64-api15.json",
+      "depends": [
+        "openssl\u003e3.0",
+        "libpsl\u003e0.20"
+      ]
+    },
+    {
+      "name": "eigen3",
+      "version": "3.4.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/eigen3-3.4.1-aarch64-api15.pkg",
+      "sha256": "55ab525d8dfa72bc09fc6684bd9df770631a79fd74305d12f0e933acd731f1e2",
+      "size": 1638090,
+      "manifest": "channels/stable/pkgs/eigen3-3.4.1-aarch64-api15.json",
+      "depends": [
+        "libgmp\u003e=6.0",
+        "libmpfr\u003e=4.0",
+        "boost\u003e1.0"
+      ]
+    },
+    {
+      "name": "ffmpeg",
+      "version": "4.3.9",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/ffmpeg-4.3.9-aarch64-api15.pkg",
+      "sha256": "6fde43d8b6b1865a8bc25e33465a05bb6626fcaae5314b94e6ee3bd2da679fbd",
+      "size": 74172877,
+      "manifest": "channels/stable/pkgs/ffmpeg-4.3.9-aarch64-api15.json",
+      "depends": [
+        "libz\u003e=1.0",
+        "xz\u003e=5.0",
+        "libaacplus\u003e=2.0",
+        "x264",
+        "libiconv\u003e=1.15"
+      ]
+    },
+    {
+      "name": "fmt",
+      "version": "12.1.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/fmt-12.1.0-aarch64-api15.pkg",
+      "sha256": "18bc51634a00d69b38db9f53476242e74f4f449aabb4db446a1136e5ba6131c8",
+      "size": 302419,
+      "manifest": "channels/stable/pkgs/fmt-12.1.0-aarch64-api15.json"
+    },
+    {
+      "name": "freetype",
+      "version": "2.14.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/freetype-2.14.1-aarch64-api15.pkg",
+      "sha256": "5d240c527318f16e9225484ac632271b0899a8b965d80fca1aa7be4cea3d7406",
+      "size": 1086861,
+      "manifest": "channels/stable/pkgs/freetype-2.14.1-aarch64-api15.json"
+    },
+    {
+      "name": "g2o",
+      "version": "2024.12.28",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/g2o-2024.12.28-aarch64-api15.pkg",
+      "sha256": "86c55302e92e0f1abc32f3f6bfc33aead553048b460d13873e3b59062122de6b",
+      "size": 5189408,
+      "manifest": "channels/stable/pkgs/g2o-2024.12.28-aarch64-api15.json",
+      "depends": [
+        "eigen3",
+        "SuiteSparse\u003e7.0"
+      ]
+    },
+    {
+      "name": "geographiclib",
+      "version": "2.6",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/geographiclib-2.6-aarch64-api15.pkg",
+      "sha256": "69cbca2f0cd7f9da47e675c2673d98f2b6c6feacb5a5ececebefc5d8b3bee9f6",
+      "size": 2231773,
+      "manifest": "channels/stable/pkgs/geographiclib-2.6-aarch64-api15.json"
+    },
+    {
+      "name": "gflags",
+      "version": "2.2.2",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/gflags-2.2.2-aarch64-api15.pkg",
+      "sha256": "aa4b9a4d2122bf9338e337f76d254c5666e0449b76436246afb43a2e04941983",
+      "size": 287992,
+      "manifest": "channels/stable/pkgs/gflags-2.2.2-aarch64-api15.json"
+    },
+    {
+      "name": "glog",
+      "version": "0.7.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/glog-0.7.1-aarch64-api15.pkg",
+      "sha256": "81119eafa6036c154fcb6b4614fdcfceb2c0ee81ec8188605047c16df9c5db55",
+      "size": 223016,
+      "manifest": "channels/stable/pkgs/glog-0.7.1-aarch64-api15.json",
+      "depends": [
+        "gflags\u003e2.0"
+      ]
+    },
+    {
+      "name": "libaacplus",
+      "version": "2.0.2",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libaacplus-2.0.2-aarch64-api15.pkg",
+      "sha256": "a8ae280731dc4c82959c6e707a1c0d39d30f1ba2b2046049b43b454f229104ca",
+      "size": 271775,
+      "manifest": "channels/stable/pkgs/libaacplus-2.0.2-aarch64-api15.json"
+    },
+    {
+      "name": "libccd",
+      "version": "2.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libccd-2.1-aarch64-api15.pkg",
+      "sha256": "f6f45f027fc4227ade34c4804a29345a19cde047a51baf26a42e50a27630ec75",
+      "size": 29569,
+      "manifest": "channels/stable/pkgs/libccd-2.1-aarch64-api15.json"
+    },
+    {
+      "name": "libexpat",
+      "version": "2.7.3",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libexpat-2.7.3-aarch64-api15.pkg",
+      "sha256": "73f9571dd419765ba3275327fb21a8b1d33a97a0c9482a1efff72d7d7fe364b6",
+      "size": 151814,
+      "manifest": "channels/stable/pkgs/libexpat-2.7.3-aarch64-api15.json"
+    },
+    {
+      "name": "libffi",
+      "version": "3.4.8",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libffi-3.4.8-aarch64-api15.pkg",
+      "sha256": "1d020a5149502e5b56729373473d865cd3a83c6a832395ad5811f09f81155156",
+      "size": 75281,
+      "manifest": "channels/stable/pkgs/libffi-3.4.8-aarch64-api15.json"
+    },
+    {
+      "name": "libgettext",
+      "version": "0.24",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libgettext-0.24-aarch64-api15.pkg",
+      "sha256": "774edcc6b3c8559701300f8df620243b8076105680b51f457cab23934ba036f3",
+      "size": 8306985,
+      "manifest": "channels/stable/pkgs/libgettext-0.24-aarch64-api15.json"
+    },
+    {
+      "name": "libgmp",
+      "version": "6.3.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libgmp-6.3.0-aarch64-api15.pkg",
+      "sha256": "f272be52a980aa1fb2ca9c3876b39d65a054e2d412afc4b206f8aa09b8caec66",
+      "size": 799775,
+      "manifest": "channels/stable/pkgs/libgmp-6.3.0-aarch64-api15.json"
+    },
+    {
+      "name": "libiconv",
+      "version": "1.17",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libiconv-1.17-aarch64-api15.pkg",
+      "sha256": "9371468e56a44234bf4cf58c66f632bb6fde7df4d9f22baeb10e74209fc4f89e",
+      "size": 803809,
+      "manifest": "channels/stable/pkgs/libiconv-1.17-aarch64-api15.json"
+    },
+    {
+      "name": "libmpc",
+      "version": "1.3.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libmpc-1.3.1-aarch64-api15.pkg",
+      "sha256": "2953a2bbc647415f41fa38ac017d035b77e4649704bc6e381f50aab08b33d25f",
+      "size": 194895,
+      "manifest": "channels/stable/pkgs/libmpc-1.3.1-aarch64-api15.json",
+      "depends": [
+        "libgmp\u003e=6.3",
+        "libmpfr\u003e=4.0.0"
+      ]
+    },
+    {
+      "name": "libmpfr",
+      "version": "4.2.2",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libmpfr-4.2.2-aarch64-api15.pkg",
+      "sha256": "c27d508fb30a516e7359e5054c4d6183fe5347b4aad528cc71939feba0db1026",
+      "size": 821584,
+      "manifest": "channels/stable/pkgs/libmpfr-4.2.2-aarch64-api15.json",
+      "depends": [
+        "libgmp\u003e=6.3"
+      ]
+    },
+    {
+      "name": "libncursesw",
+      "version": "6.5",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libncursesw-6.5-aarch64-api15.pkg",
+      "sha256": "00b8d03361d50570fd4811e01a4bf8810b2aef2303442c482463a2bc5dd2a7e7",
+      "size": 3302262,
+      "manifest": "channels/stable/pkgs/libncursesw-6.5-aarch64-api15.json"
+    },
+    {
+      "name": "libpng",
+      "version": "1.6.50",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libpng-1.6.50-aarch64-api15.pkg",
+      "sha256": "5b4d5977521a12be62b7d1c6b39dcc28f0f3c27c3ff53d33987abd41e9fe01bb",
+      "size": 508342,
+      "manifest": "channels/stable/pkgs/libpng-1.6.50-aarch64-api15.json"
+    },
+    {
+      "name": "libpsl",
+      "version": "0.21.5",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libpsl-0.21.5-aarch64-api15.pkg",
+      "sha256": "19f7e15d57f025cdc267ed8ea9696ea001cd4bc1706d2b8d08c0e63e1887d04a",
+      "size": 143353,
+      "manifest": "channels/stable/pkgs/libpsl-0.21.5-aarch64-api15.json"
+    },
+    {
+      "name": "libreadline",
+      "version": "8.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libreadline-8.1-aarch64-api15.pkg",
+      "sha256": "07d0d2501c26b1e829055fb45dca13457326a0655f813b1bc18ae57e3fd0dc35",
+      "size": 798074,
+      "manifest": "channels/stable/pkgs/libreadline-8.1-aarch64-api15.json",
+      "depends": [
+        "libncursesw\u003e=6.0"
+      ]
+    },
+    {
+      "name": "libz",
+      "version": "1.3.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libz-1.3.1-aarch64-api15.pkg",
+      "sha256": "fbfac8767b22811762e0649915664c0bdc8c935a770c36a3f98477393e036fc0",
+      "size": 170008,
+      "manifest": "channels/stable/pkgs/libz-1.3.1-aarch64-api15.json"
+    },
+    {
+      "name": "libzmq",
+      "version": "4.3.5",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/libzmq-4.3.5-aarch64-api15.pkg",
+      "sha256": "a5006492402b7df7943f721f3a9703fd818833632dc2e7dae9679076c970d3ff",
+      "size": 1210697,
+      "manifest": "channels/stable/pkgs/libzmq-4.3.5-aarch64-api15.json"
+    },
+    {
+      "name": "llama.cpp",
+      "version": "0.6910.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/llama.cpp-0.6910.0-aarch64-api15.pkg",
+      "sha256": "31a10ef40fc36a183f7c46f558bd55904b191148581fb263125d9990205de3ec",
+      "size": 33801376,
+      "manifest": "channels/stable/pkgs/llama.cpp-0.6910.0-aarch64-api15.json",
+      "depends": [
+        "openssl\u003e3.0",
+        "curl\u003e8.0",
+        "openblas\u003e=0.3"
+      ]
+    },
+    {
+      "name": "oneTBB",
+      "version": "2022.3.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/oneTBB-2022.3.0-aarch64-api15.pkg",
+      "sha256": "8ec5cdca1c9b442722a9b188a5c7d6383c49b674680db52e9958fd258fc05ef2",
+      "size": 450010,
+      "manifest": "channels/stable/pkgs/oneTBB-2022.3.0-aarch64-api15.json"
+    },
+    {
+      "name": "onnxruntime",
+      "version": "1.18.2",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/onnxruntime-1.18.2-aarch64-api15.pkg",
+      "sha256": "813d29513941aeadd325a233a4aecadca96db087f5c6e599673e20645257b9da",
+      "size": 103472546,
+      "manifest": "channels/stable/pkgs/onnxruntime-1.18.2-aarch64-api15.json",
+      "depends": [
+        "python3\u003e3.10"
+      ]
+    },
+    {
+      "name": "openblas",
+      "version": "0.3.29",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/openblas-0.3.29-aarch64-api15.pkg",
+      "sha256": "952d15f92d8608c23a09d3b23978a6992d59f947592383b3131dafa3d3c2602e",
+      "size": 5315216,
+      "manifest": "channels/stable/pkgs/openblas-0.3.29-aarch64-api15.json"
+    },
+    {
+      "name": "openssl",
+      "version": "3.5.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/openssl-3.5.0-aarch64-api15.pkg",
+      "sha256": "1f1729535ce55a7b66b3ea608e564e3dd54475182455eb5fa82ec5ac9842fefe",
+      "size": 11910921,
+      "manifest": "channels/stable/pkgs/openssl-3.5.0-aarch64-api15.json",
+      "depends": [
+        "libz\u003e=1.0"
+      ]
+    },
+    {
+      "name": "patchelf",
+      "version": "0.18.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/patchelf-0.18.0-aarch64-api15.pkg",
+      "sha256": "57db4c3808b9e1e5003b2a3bf4059b58f0a058bbd521116769170a912da2153e",
+      "size": 297742,
+      "manifest": "channels/stable/pkgs/patchelf-0.18.0-aarch64-api15.json"
+    },
+    {
+      "name": "pcre2",
+      "version": "10.47",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/pcre2-10.47-aarch64-api15.pkg",
+      "sha256": "4e80c9f527d625ad4fb818fda0b973ded76ac5386d9f8fcea11383bba91635e0",
+      "size": 1726267,
+      "manifest": "channels/stable/pkgs/pcre2-10.47-aarch64-api15.json",
+      "depends": [
+        "bzip2\u003e=1.0",
+        "libncursesw\u003e6.0",
+        "libreadline\u003e8.0"
+      ]
+    },
+    {
+      "name": "python3",
+      "version": "3.12.12",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/python3-3.12.12-aarch64-api15.pkg",
+      "sha256": "3e950acb57d32c8090bb89d7b02f44d9d9dc09c2ff31fcf9085df9aaa85daae4",
+      "size": 77246178,
+      "manifest": "channels/stable/pkgs/python3-3.12.12-aarch64-api15.json",
+      "depends": [
+        "libz\u003e=1.0",
+        "openssl\u003e=3.0",
+        "libffi\u003e3.0",
+        "sqlite\u003e3.0",
+        "bzip2\u003e=1.0",
+        "xz\u003e=5.8",
+        "libncursesw\u003e6.0",
+        "libreadline\u003e=8.1",
+        "libgettext\u003e=0.24",
+        "util-linux\u003e2.0"
+      ]
+    },
+    {
+      "name": "python3-opencv",
+      "version": "4.11.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/python3-opencv-4.11.0-aarch64-api15.pkg",
+      "sha256": "4934a6b590b82442e85f273833133a9c6b9e7ef6935c4cc9e449e34f6bf20c50",
+      "size": 18892872,
+      "manifest": "channels/stable/pkgs/python3-opencv-4.11.0-aarch64-api15.json",
+      "depends": [
+        "python3\u003e3.10",
+        "ffmpeg\u003e4.0",
+        "openblas\u003e=0.3"
+      ]
+    },
+    {
+      "name": "qhull",
+      "version": "8.1.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/qhull-8.1.0-aarch64-api15.pkg",
+      "sha256": "da82dfb73b06c9b0926a2ca73bb6b65be10e8c5dfc6ef1d2020482dd09cb42c6",
+      "size": 2449334,
+      "manifest": "channels/stable/pkgs/qhull-8.1.0-aarch64-api15.json"
+    },
+    {
+      "name": "sqlite",
+      "version": "3.49.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/sqlite-3.49.1-aarch64-api15.pkg",
+      "sha256": "97c76c6e4c88cd21d390b774aae70c494a6cf1a648fbf22313d1a45cf9bbeb82",
+      "size": 1927394,
+      "manifest": "channels/stable/pkgs/sqlite-3.49.1-aarch64-api15.json"
+    },
+    {
+      "name": "swig",
+      "version": "4.4.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/swig-4.4.0-aarch64-api15.pkg",
+      "sha256": "d14784f54a9ba0ae838d3d45bef83f2cd41a7c8f84e9d3d3f90931490b198dac",
+      "size": 1559574,
+      "manifest": "channels/stable/pkgs/swig-4.4.0-aarch64-api15.json",
+      "depends": [
+        "pcre2\u003e10.0"
+      ]
+    },
+    {
+      "name": "tinyxml2",
+      "version": "11.0.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/tinyxml2-11.0.0-aarch64-api15.pkg",
+      "sha256": "6dc287bdbcb2ace16e2105e6e889428d7838bc997be8f71398f52298846ec74f",
+      "size": 137974,
+      "manifest": "channels/stable/pkgs/tinyxml2-11.0.0-aarch64-api15.json"
+    },
+    {
+      "name": "util-linux",
+      "version": "2.41.2",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/util-linux-2.41.2-aarch64-api15.pkg",
+      "sha256": "f1f87927fee22919c89233ff51a0daa744069525e84b297ff6b456d7c9ee7bc8",
+      "size": 3079817,
+      "manifest": "channels/stable/pkgs/util-linux-2.41.2-aarch64-api15.json",
+      "depends": [
+        "libncursesw\u003e6.0",
+        "libreadline\u003e8.0"
+      ]
+    },
+    {
+      "name": "x264",
+      "version": "0.165",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/x264-0.165-aarch64-api15.pkg",
+      "sha256": "2f8cec1f4e6f84a8ea26b44d1420ab8304a7204d9268a2e69b62245b6ba45c30",
+      "size": 1610824,
+      "manifest": "channels/stable/pkgs/x264-0.165-aarch64-api15.json"
+    },
+    {
+      "name": "xz",
+      "version": "5.8.1",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/xz-5.8.1-aarch64-api15.pkg",
+      "sha256": "e1564f1643b0a07d1a02576ee3b0cfb21550e269840b6b7bec49c05228de1832",
+      "size": 484503,
+      "manifest": "channels/stable/pkgs/xz-5.8.1-aarch64-api15.json"
+    },
+    {
+      "name": "yaml-cpp",
+      "version": "0.8.0",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/yaml-cpp-0.8.0-aarch64-api15.pkg",
+      "sha256": "64ee90f7e1a16c67e68dc597f1e15b4abdef5c78629b6921f51f22399e56262a",
+      "size": 246815,
+      "manifest": "channels/stable/pkgs/yaml-cpp-0.8.0-aarch64-api15.json"
+    },
+    {
+      "name": "zstd",
+      "version": "1.5.7",
+      "arch": "aarch64",
+      "ohos_api": "15",
+      "url": "channels/stable/pkgs/zstd-1.5.7-aarch64-api15.pkg",
+      "sha256": "babccccbb97b6f98a90b6d4a1f06a6b0d50fd14ee539568872932b8478c2e2c5",
+      "size": 1232394,
+      "manifest": "channels/stable/pkgs/zstd-1.5.7-aarch64-api15.json"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "qhull",
+  "version": "8.1.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 2449334,
+  "sha256": "da82dfb73b06c9b0926a2ca73bb6b65be10e8c5dfc6ef1d2020482dd09cb42c6",
+  "url": "channels/stable/pkgs/qhull-8.1.0-aarch64-api15.pkg"
+}

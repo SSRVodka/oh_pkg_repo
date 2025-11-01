@@ -1,0 +1,10 @@
+{
+  "name": "gflags",
+  "version": "2.2.2",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 287992,
+  "sha256": "aa4b9a4d2122bf9338e337f76d254c5666e0449b76436246afb43a2e04941983",
+  "url": "channels/stable/pkgs/gflags-2.2.2-aarch64-api15.pkg"
+}

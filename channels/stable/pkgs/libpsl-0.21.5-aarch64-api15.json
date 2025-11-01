@@ -1,0 +1,10 @@
+{
+  "name": "libpsl",
+  "version": "0.21.5",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 143353,
+  "sha256": "19f7e15d57f025cdc267ed8ea9696ea001cd4bc1706d2b8d08c0e63e1887d04a",
+  "url": "channels/stable/pkgs/libpsl-0.21.5-aarch64-api15.pkg"
+}

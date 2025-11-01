@@ -1,0 +1,10 @@
+{
+  "name": "geographiclib",
+  "version": "2.6",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 2231773,
+  "sha256": "69cbca2f0cd7f9da47e675c2673d98f2b6c6feacb5a5ececebefc5d8b3bee9f6",
+  "url": "channels/stable/pkgs/geographiclib-2.6-aarch64-api15.pkg"
+}

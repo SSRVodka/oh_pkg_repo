@@ -1,0 +1,10 @@
+{
+  "name": "libexpat",
+  "version": "2.7.3",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 151814,
+  "sha256": "73f9571dd419765ba3275327fb21a8b1d33a97a0c9482a1efff72d7d7fe364b6",
+  "url": "channels/stable/pkgs/libexpat-2.7.3-aarch64-api15.pkg"
+}

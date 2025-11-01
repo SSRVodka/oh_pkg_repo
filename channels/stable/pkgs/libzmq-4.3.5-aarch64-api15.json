@@ -1,0 +1,10 @@
+{
+  "name": "libzmq",
+  "version": "4.3.5",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1210697,
+  "sha256": "a5006492402b7df7943f721f3a9703fd818833632dc2e7dae9679076c970d3ff",
+  "url": "channels/stable/pkgs/libzmq-4.3.5-aarch64-api15.pkg"
+}

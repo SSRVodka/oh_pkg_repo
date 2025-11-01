@@ -1,0 +1,10 @@
+{
+  "name": "libccd",
+  "version": "2.1",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 29569,
+  "sha256": "f6f45f027fc4227ade34c4804a29345a19cde047a51baf26a42e50a27630ec75",
+  "url": "channels/stable/pkgs/libccd-2.1-aarch64-api15.pkg"
+}

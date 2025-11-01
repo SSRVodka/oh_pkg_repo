@@ -1,0 +1,10 @@
+{
+  "name": "xz",
+  "version": "5.8.1",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 484503,
+  "sha256": "e1564f1643b0a07d1a02576ee3b0cfb21550e269840b6b7bec49c05228de1832",
+  "url": "channels/stable/pkgs/xz-5.8.1-aarch64-api15.pkg"
+}

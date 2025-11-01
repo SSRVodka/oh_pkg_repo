@@ -1,0 +1,17 @@
+{
+  "name": "ffmpeg",
+  "version": "4.3.9",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 74172877,
+  "sha256": "6fde43d8b6b1865a8bc25e33465a05bb6626fcaae5314b94e6ee3bd2da679fbd",
+  "url": "channels/stable/pkgs/ffmpeg-4.3.9-aarch64-api15.pkg",
+  "depends": [
+    "libz\u003e=1.0",
+    "xz\u003e=5.0",
+    "libaacplus\u003e=2.0",
+    "x264",
+    "libiconv\u003e=1.15"
+  ]
+}

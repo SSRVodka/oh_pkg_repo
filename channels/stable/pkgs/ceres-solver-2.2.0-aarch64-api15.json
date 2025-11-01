@@ -1,0 +1,17 @@
+{
+  "name": "ceres-solver",
+  "version": "2.2.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 2343201,
+  "sha256": "843eda16f83f43763600b4ce14dc69e63c74d0bc7f496cdab5391604092c53aa",
+  "url": "channels/stable/pkgs/ceres-solver-2.2.0-aarch64-api15.pkg",
+  "depends": [
+    "gflags\u003e2.0",
+    "glog\u003e0.5",
+    "eigen3",
+    "openblas\u003e=0.3",
+    "SuiteSparse\u003e7.0"
+  ]
+}

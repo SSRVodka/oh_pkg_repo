@@ -1,0 +1,14 @@
+{
+  "name": "g2o",
+  "version": "2024.12.28",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 5189408,
+  "sha256": "86c55302e92e0f1abc32f3f6bfc33aead553048b460d13873e3b59062122de6b",
+  "url": "channels/stable/pkgs/g2o-2024.12.28-aarch64-api15.pkg",
+  "depends": [
+    "eigen3",
+    "SuiteSparse\u003e7.0"
+  ]
+}

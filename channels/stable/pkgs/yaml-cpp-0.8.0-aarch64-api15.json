@@ -1,0 +1,10 @@
+{
+  "name": "yaml-cpp",
+  "version": "0.8.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 246815,
+  "sha256": "64ee90f7e1a16c67e68dc597f1e15b4abdef5c78629b6921f51f22399e56262a",
+  "url": "channels/stable/pkgs/yaml-cpp-0.8.0-aarch64-api15.pkg"
+}

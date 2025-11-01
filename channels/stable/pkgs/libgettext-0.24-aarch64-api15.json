@@ -1,0 +1,10 @@
+{
+  "name": "libgettext",
+  "version": "0.24",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 8306985,
+  "sha256": "774edcc6b3c8559701300f8df620243b8076105680b51f457cab23934ba036f3",
+  "url": "channels/stable/pkgs/libgettext-0.24-aarch64-api15.pkg"
+}

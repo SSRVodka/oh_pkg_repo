@@ -1,0 +1,10 @@
+{
+  "name": "openblas",
+  "version": "0.3.29",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 5315216,
+  "sha256": "952d15f92d8608c23a09d3b23978a6992d59f947592383b3131dafa3d3c2602e",
+  "url": "channels/stable/pkgs/openblas-0.3.29-aarch64-api15.pkg"
+}

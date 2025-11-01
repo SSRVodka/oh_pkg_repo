@@ -1,0 +1,10 @@
+{
+  "name": "fmt",
+  "version": "12.1.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 302419,
+  "sha256": "18bc51634a00d69b38db9f53476242e74f4f449aabb4db446a1136e5ba6131c8",
+  "url": "channels/stable/pkgs/fmt-12.1.0-aarch64-api15.pkg"
+}

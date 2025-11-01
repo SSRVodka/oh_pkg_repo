@@ -1,0 +1,10 @@
+{
+  "name": "freetype",
+  "version": "2.14.1",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1086861,
+  "sha256": "5d240c527318f16e9225484ac632271b0899a8b965d80fca1aa7be4cea3d7406",
+  "url": "channels/stable/pkgs/freetype-2.14.1-aarch64-api15.pkg"
+}

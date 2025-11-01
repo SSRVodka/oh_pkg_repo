@@ -1,0 +1,15 @@
+{
+  "name": "llama.cpp",
+  "version": "0.6910.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 33801376,
+  "sha256": "31a10ef40fc36a183f7c46f558bd55904b191148581fb263125d9990205de3ec",
+  "url": "channels/stable/pkgs/llama.cpp-0.6910.0-aarch64-api15.pkg",
+  "depends": [
+    "openssl\u003e3.0",
+    "curl\u003e8.0",
+    "openblas\u003e=0.3"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "YDLidar-SDK",
+  "version": "1.2.7",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 7753388,
+  "sha256": "188f120c09557e2f7477c034c58b44daae2a76f20241895dc0982b75d3d0c8c9",
+  "url": "channels/stable/pkgs/YDLidar-SDK-1.2.7-aarch64-api15.pkg"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "libgmp",
+  "version": "6.3.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 799775,
+  "sha256": "f272be52a980aa1fb2ca9c3876b39d65a054e2d412afc4b206f8aa09b8caec66",
+  "url": "channels/stable/pkgs/libgmp-6.3.0-aarch64-api15.pkg"
+}

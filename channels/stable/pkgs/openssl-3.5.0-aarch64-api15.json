@@ -1,0 +1,13 @@
+{
+  "name": "openssl",
+  "version": "3.5.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 11910921,
+  "sha256": "1f1729535ce55a7b66b3ea608e564e3dd54475182455eb5fa82ec5ac9842fefe",
+  "url": "channels/stable/pkgs/openssl-3.5.0-aarch64-api15.pkg",
+  "depends": [
+    "libz\u003e=1.0"
+  ]
+}

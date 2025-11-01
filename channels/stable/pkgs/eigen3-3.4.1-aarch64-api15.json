@@ -1,0 +1,15 @@
+{
+  "name": "eigen3",
+  "version": "3.4.1",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1638090,
+  "sha256": "55ab525d8dfa72bc09fc6684bd9df770631a79fd74305d12f0e933acd731f1e2",
+  "url": "channels/stable/pkgs/eigen3-3.4.1-aarch64-api15.pkg",
+  "depends": [
+    "libgmp\u003e=6.0",
+    "libmpfr\u003e=4.0",
+    "boost\u003e1.0"
+  ]
+}

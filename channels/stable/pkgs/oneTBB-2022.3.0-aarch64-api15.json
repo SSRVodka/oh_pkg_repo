@@ -1,0 +1,10 @@
+{
+  "name": "oneTBB",
+  "version": "2022.3.0",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 450010,
+  "sha256": "8ec5cdca1c9b442722a9b188a5c7d6383c49b674680db52e9958fd258fc05ef2",
+  "url": "channels/stable/pkgs/oneTBB-2022.3.0-aarch64-api15.pkg"
+}
