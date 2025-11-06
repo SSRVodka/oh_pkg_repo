@@ -1,0 +1,14 @@
+{
+  "name": "libmpc",
+  "version": "1.3.1",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 182337,
+  "sha256": "5a6803df3031584b3006d68aa3318846a9d7a20a41080e0f775e32d4ac6771f7",
+  "url": "channels/stable/pkgs/libmpc-1.3.1-x86_64-api15.pkg",
+  "depends": [
+    "libgmp\u003e=6.3",
+    "libmpfr\u003e=4.0.0"
+  ]
+}

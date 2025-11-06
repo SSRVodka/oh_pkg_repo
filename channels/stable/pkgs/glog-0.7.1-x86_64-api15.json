@@ -1,0 +1,13 @@
+{
+  "name": "glog",
+  "version": "0.7.1",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 215784,
+  "sha256": "7881fdcc2f4d2aaff1d2b6f0cac03d92182ffa81b066b49d0e8b5b6d5662e8e3",
+  "url": "channels/stable/pkgs/glog-0.7.1-x86_64-api15.pkg",
+  "depends": [
+    "gflags\u003e2.0"
+  ]
+}

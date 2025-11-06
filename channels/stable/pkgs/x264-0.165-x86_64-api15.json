@@ -1,0 +1,10 @@
+{
+  "name": "x264",
+  "version": "0.165",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1613870,
+  "sha256": "6cc8bc9f9bfbc6eb2b2335c6b4c3c64bdd95ebc0421efd40711fb5332c9a5a2f",
+  "url": "channels/stable/pkgs/x264-0.165-x86_64-api15.pkg"
+}

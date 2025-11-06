@@ -1,0 +1,10 @@
+{
+  "name": "libiconv",
+  "version": "1.17",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1584289,
+  "sha256": "aa77aad325b62027433bcdcd791ea9d3ef3ca21d0080c8897a64bd00506ead1a",
+  "url": "channels/stable/pkgs/libiconv-1.17-x86_64-api15.pkg"
+}

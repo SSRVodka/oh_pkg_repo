@@ -1,0 +1,14 @@
+{
+  "name": "util-linux",
+  "version": "2.41.2",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 3022392,
+  "sha256": "a327fbf11ed78e41a484c38fe8b0e336419bd2416152986b3500ae88f0108e4a",
+  "url": "channels/stable/pkgs/util-linux-2.41.2-x86_64-api15.pkg",
+  "depends": [
+    "libncursesw\u003e6.0",
+    "libreadline\u003e8.0"
+  ]
+}

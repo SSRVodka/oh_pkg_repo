@@ -1,0 +1,10 @@
+{
+  "name": "libffi",
+  "version": "3.4.8",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 75481,
+  "sha256": "06d55f7bce2990059c620e3433c0adfdb0d974a86a5a654724d31a6bdca14d53",
+  "url": "channels/stable/pkgs/libffi-3.4.8-x86_64-api15.pkg"
+}

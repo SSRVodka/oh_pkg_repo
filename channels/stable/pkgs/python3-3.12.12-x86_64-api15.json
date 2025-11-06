@@ -1,0 +1,22 @@
+{
+  "name": "python3",
+  "version": "3.12.12",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 77653673,
+  "sha256": "02b94aea7b84cd65d1e8372c791a3d1ccb26f28c919d3f649b9c75d475c0dcdc",
+  "url": "channels/stable/pkgs/python3-3.12.12-x86_64-api15.pkg",
+  "depends": [
+    "libz\u003e=1.0",
+    "openssl\u003e=3.0",
+    "libffi\u003e3.0",
+    "sqlite\u003e3.0",
+    "bzip2\u003e=1.0",
+    "xz\u003e=5.8",
+    "libncursesw\u003e6.0",
+    "libreadline\u003e=8.1",
+    "libgettext\u003e=0.24",
+    "util-linux\u003e2.0"
+  ]
+}

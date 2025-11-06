@@ -1,0 +1,13 @@
+{
+  "name": "onnxruntime",
+  "version": "1.18.2",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 102074769,
+  "sha256": "790dbb10140a2ea569f259514916d171a9117904573bd75b03daafacd6bd146a",
+  "url": "channels/stable/pkgs/onnxruntime-1.18.2-x86_64-api15.pkg",
+  "depends": [
+    "python3\u003e3.10"
+  ]
+}

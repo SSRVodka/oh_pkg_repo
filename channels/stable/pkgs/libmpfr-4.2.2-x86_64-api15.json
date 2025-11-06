@@ -1,0 +1,13 @@
+{
+  "name": "libmpfr",
+  "version": "4.2.2",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 796114,
+  "sha256": "7a44d46ae59844d74d4e3f8405f7333de2a0295896c223c776055e9a125b1564",
+  "url": "channels/stable/pkgs/libmpfr-4.2.2-x86_64-api15.pkg",
+  "depends": [
+    "libgmp\u003e=6.3"
+  ]
+}

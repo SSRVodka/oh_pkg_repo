@@ -1,0 +1,10 @@
+{
+  "name": "alsa",
+  "version": "1.2.14",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 676778,
+  "sha256": "54ac5532ac42685dd488e3b5b4e794a58f96124a6679ede69f0a576e044fd7f9",
+  "url": "channels/stable/pkgs/alsa-1.2.14-x86_64-api15.pkg"
+}

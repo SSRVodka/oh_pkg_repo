@@ -1,0 +1,10 @@
+{
+  "name": "tinyxml2",
+  "version": "11.0.0",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 131242,
+  "sha256": "af94a557280c09dd3ff3b23c6ec82c1326cf9f0d518eb7fab4f39743fd5128ff",
+  "url": "channels/stable/pkgs/tinyxml2-11.0.0-x86_64-api15.pkg"
+}

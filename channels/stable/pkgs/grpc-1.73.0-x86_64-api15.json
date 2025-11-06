@@ -1,0 +1,14 @@
+{
+  "name": "grpc",
+  "version": "1.73.0",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 39639862,
+  "sha256": "21ad627f71363fb11c1cb4dd9028a0a4c2981c0bb6a1205e039fe177969b8e56",
+  "url": "channels/stable/pkgs/grpc-1.73.0-x86_64-api15.pkg",
+  "depends": [
+    "libz\u003e=1.0",
+    "openssl\u003e3.0"
+  ]
+}

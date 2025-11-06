@@ -1,0 +1,10 @@
+{
+  "name": "patchelf",
+  "version": "0.18.0",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 271224,
+  "sha256": "14b18ae6f9a3c62c977eb0d031eee37ecaf2329046c98ae43bdd2183fe6ab9a6",
+  "url": "channels/stable/pkgs/patchelf-0.18.0-x86_64-api15.pkg"
+}

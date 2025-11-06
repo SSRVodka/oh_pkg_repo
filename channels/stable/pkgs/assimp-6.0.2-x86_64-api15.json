@@ -1,0 +1,10 @@
+{
+  "name": "assimp",
+  "version": "6.0.2",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 4311521,
+  "sha256": "59addd1fdabeb7e0f725b93bc98d9b93eb83fd90a87fdbdcae6220d5012c27f9",
+  "url": "channels/stable/pkgs/assimp-6.0.2-x86_64-api15.pkg"
+}

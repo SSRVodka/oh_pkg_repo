@@ -1,0 +1,13 @@
+{
+  "name": "acl",
+  "version": "2.3.1",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 128001,
+  "sha256": "995dc7ddb4fe65bf928de9a6bdc9e03319207fe163dfc45e2c9dcfd4f02976af",
+  "url": "channels/stable/pkgs/acl-2.3.1-x86_64-api15.pkg",
+  "depends": [
+    "attr\u003e=2.5"
+  ]
+}

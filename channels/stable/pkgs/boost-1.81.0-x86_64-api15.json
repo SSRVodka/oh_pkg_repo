@@ -1,0 +1,10 @@
+{
+  "name": "boost",
+  "version": "1.81.0",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 26028775,
+  "sha256": "d73e082f495117a0e5da73dd0b8ebaaf97452a7866413e4f3f89a77e21b9545b",
+  "url": "channels/stable/pkgs/boost-1.81.0-x86_64-api15.pkg"
+}

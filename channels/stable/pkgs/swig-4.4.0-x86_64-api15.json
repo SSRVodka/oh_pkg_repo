@@ -1,0 +1,13 @@
+{
+  "name": "swig",
+  "version": "4.4.0",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1595055,
+  "sha256": "879f1316dee4a5f132ce459eb8f407a56e822208f02cdd08e54382946923a96c",
+  "url": "channels/stable/pkgs/swig-4.4.0-x86_64-api15.pkg",
+  "depends": [
+    "pcre2\u003e10.0"
+  ]
+}

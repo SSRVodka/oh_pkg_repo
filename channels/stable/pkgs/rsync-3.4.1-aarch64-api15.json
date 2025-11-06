@@ -1,0 +1,14 @@
+{
+  "name": "rsync",
+  "version": "3.4.1",
+  "arch": "aarch64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 337805,
+  "sha256": "58df750a350a6847e00e3700af5cfd42323b2976067b3dc32b5660e8bcbb2f57",
+  "url": "channels/stable/pkgs/rsync-3.4.1-aarch64-api15.pkg",
+  "depends": [
+    "openssl\u003e3.0",
+    "zstd\u003e=1.5"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nasm",
+  "version": "3.01",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 1347992,
+  "sha256": "ad9c122ebca444694e547a3135140b0c9a35c32832d6f877eac046a24ee2766b",
+  "url": "channels/stable/pkgs/nasm-3.01-x86_64-api15.pkg"
+}

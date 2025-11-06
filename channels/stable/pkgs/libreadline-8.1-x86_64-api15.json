@@ -1,0 +1,13 @@
+{
+  "name": "libreadline",
+  "version": "8.1",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 782315,
+  "sha256": "8ff968482d07595e28cbfc51f117fdd558db5abe7b09370b0e5c68b1a4637010",
+  "url": "channels/stable/pkgs/libreadline-8.1-x86_64-api15.pkg",
+  "depends": [
+    "libncursesw\u003e=6.0"
+  ]
+}

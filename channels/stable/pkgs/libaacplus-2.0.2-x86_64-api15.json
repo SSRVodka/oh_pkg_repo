@@ -1,0 +1,10 @@
+{
+  "name": "libaacplus",
+  "version": "2.0.2",
+  "arch": "x86_64",
+  "ohos_api": "15",
+  "format_version": 1,
+  "size": 262082,
+  "sha256": "bb1322c0b645242d353379231dab5d3c0578b4abf3fb64ec931920614d6d8193",
+  "url": "channels/stable/pkgs/libaacplus-2.0.2-x86_64-api15.pkg"
+}
